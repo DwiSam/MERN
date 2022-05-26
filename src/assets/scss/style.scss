@@ -80,6 +80,7 @@ header {
             padding-left: 1rem;
             padding-right: 1rem;
             &:hover {
+              color: $primary;
               text-decoration: underline;
             }
           }
